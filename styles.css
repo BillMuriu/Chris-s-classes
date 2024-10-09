@@ -1,0 +1,17 @@
+body {
+}
+
+.main-section {
+  width: 100vw;
+  height: 100vh;
+  background-color: bisque;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.section-1 {
+  height: 100px;
+  width: 200px;
+  background-color: aquamarine;
+}
